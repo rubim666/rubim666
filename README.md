@@ -11,7 +11,6 @@
 ### 👨‍💻 Computer Science & System Development Student  
 Passionate about building **webpages** and exploring everything related to **React.js**.  
 When I'm not coding, you'll find me behind the camera 📸 shooting in some weird place.
-(And yes, this account has been abandoned for a long, long time, but I'm working on it...😭)
 ---
 
 ## 🚀 What I’m working on
