@@ -6,7 +6,7 @@
 
 ---
 
-# 👋 Hi there! I'm Ruy 
+# 👋 Hi there! I'm Henrique
 
 ### 👨‍💻 Computer Science & System Development Student  
 Passionate about building **webpages** and exploring everything related to **React.js**.  
