@@ -1,7 +1,7 @@
 <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=RuyOllivere&theme=crt">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=RuyOllivere&screen_effect=true&theme=fuji&pixelate">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=RuyOllivere&theme=crt">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=rubim666&theme=crt">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=rubim666&screen_effect=true&theme=fuji&pixelate">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=rubim666&theme=crt">
 </picture>
 
 ---
