@@ -6,23 +6,23 @@
 
 ---
 
-# 👋 Hi there! I'm Henrique
+# Hi there! I'm Henrique
 
 ### 👨‍💻 Computer Science & System Development Student  
 Passionate about building **webpages** and exploring everything related to **React.js**.  
 When I'm not coding, you'll find me behind the camera 📸 shooting in some weird place.
 ---
 
-## 🚀 What I’m working on
+## What I’m working on
 
-- 🌐 Building sleek, responsive **web apps** with React  
-- 🛠️ Learning full stack development and system design  
-- 📷 Exploring creative photography projects  
-- 🎃 Creating creepy interfaces
+- Building sleek, responsive **web apps** with React  
+- Learning full stack development and system design  
+- Exploring creative photography projects  
+- Creating creepy interfaces
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -35,7 +35,7 @@ When I'm not coding, you'll find me behind the camera 📸 shooting in some weir
 
 ---
 
-## 🎨 Hobby Photographer
+## Hobby Photographer
 
 ![Camera](https://img.shields.io/badge/📷-Photography-ff69b4?style=for-the-badge)  
 *Constantly looking for new places - URBEX-.*
@@ -45,15 +45,15 @@ Check out some of my shots:
 
 ---
 
-## 👻 Lover of Horror
+## Lover of Horror
 
 I love creepy stories, scary movies, and designing eerie web experiences.  
 
 > "This'll blow up my mind." – Kurt Cobain
 
-## 📫 How to reach me
+## How to reach me
 
-- 📧 ruylivinginadream@duck.com
+- ruylivinginadream@duck.com
 
 ---
 
