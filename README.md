@@ -8,7 +8,7 @@
 
 # Hi there! I'm Henrique
 
-### 👨‍💻 Computer Science & System Development Student  
+### Computer Science & System Development Student  
 Passionate about building **webpages** and exploring everything related to **React.js**.  
 When I'm not coding, you'll find me behind the camera 📸 shooting in some weird place.
 ---
